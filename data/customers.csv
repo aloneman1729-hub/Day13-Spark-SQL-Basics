@@ -1,0 +1,11 @@
+customer_id,name,city,age,segment,total_spend,orders
+C101,Prudhvi,Hyderabad,23,Premium,85000,5
+C102,Rahul,Bangalore,28,Regular,42000,3
+C103,Anjali,Chennai,31,Premium,67000,4
+C104,Sneha,Hyderabad,26,Regular,28000,2
+C105,Arjun,Mumbai,35,Premium,92000,6
+C106,Priya,Pune,29,Regular,35000,3
+C107,Kiran,Delhi,42,Premium,110000,7
+C108,Divya,Hyderabad,24,Regular,22000,2
+C109,Vikram,Bangalore,38,Premium,78000,5
+C110,Neha,Chennai,27,Regular,31000,3

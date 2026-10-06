@@ -1,0 +1,5 @@
+{"customer_id":"C101","name":"Prudhvi","city":"Hyderabad","age":23,"segment":"Premium","total_spend":85000,"orders":5}
+{"customer_id":"C102","name":"Rahul","city":"Bangalore","age":28,"segment":"Regular","total_spend":42000,"orders":3}
+{"customer_id":"C103","name":"Anjali","city":"Chennai","age":31,"segment":"Premium","total_spend":67000,"orders":4}
+{"customer_id":"C104","name":"Sneha","city":"Hyderabad","age":26,"segment":"Regular","total_spend":28000,"orders":2}
+{"customer_id":"C105","name":"Arjun","city":"Mumbai","age":35,"segment":"Premium","total_spend":92000,"orders":6}
